@@ -14,6 +14,8 @@ import javax.swing.JOptionPane;
  * This class represents the main framework of the aquarium.
  * 
  * @author Shai Hod, ID: 304800402
+ * 
+ * @version 1.0
  *
  */
 
